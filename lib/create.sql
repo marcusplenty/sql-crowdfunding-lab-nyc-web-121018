@@ -1,6 +1,6 @@
 CREATE TABLE users (
     id INTEGER PRIMARY KEY,
     name TEXT,
-    age INTEGER,
-    breed TEXT
+    animal INTEGER,
+    age INTEGER
 );
