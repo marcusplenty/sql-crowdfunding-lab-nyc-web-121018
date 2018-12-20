@@ -4,3 +4,12 @@ CREATE TABLE users (
     age INTEGER
 );
 
+CREATE TABLE projects (
+    id INTEGER PRIMARY KEY,
+    title TEXT,
+    category TEXT,
+    
+    name TEXT,
+    age INTEGER
+);
+
